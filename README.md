@@ -1,1 +1,1 @@
-# Path-Finding-Visualization
+# Path-Finding-Visualizers
