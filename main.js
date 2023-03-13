@@ -1,12 +1,5 @@
 function generateMaze() {
     //create a two-dimensional grid of cells, where each cell has four walls (top, right, bottom, left)
-    //choose a starting point and mark it as the current cell
-    //while there are unvisited cells
-        //randomly pick a neighboring cell that has not been visited
-        //remove the wall between the current cell and the chosen neighboring cell
-        //mark the chosen neighboring cell as the current cell
-        //repeat until there are no unvisited cells
-    //return the grid
             
     var grid = [];
     var marked = [];
